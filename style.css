@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#header .progress {
+  width: 90px;
+  height: 10px;
+  margin-top: -17px;
+  background-color: #ebebeb;
+}
+
+.self-text {
+  font-size: 12px;
+}
+
+#header .progress-two {
+  width: 92px;
+  height: 10px;
+  margin-top: -17px;
+  background-color: #ebebeb;
+}
+
+.map-text {
+  font-size: 11px;
+}
+
+.mobile-img {
+  margin-top: -25px;
+}
+
+.mobile-text {
+  margin-top: -25px;
+  font-size: 11px;
+  padding-left: 30px;
+}
+
+/*  main-section*/
+
+#main-text .progress-two {
+  width: 115px;
+  height: 10px;
+  margin-top: -17px;
+  background-color: #ebebeb;
+}
+
+.Experience {
+  font-size: 12px;
+}
+
+pre {
+  font-size: 12px;
+}
+
+li {
+  margin-left: -15px;
+}
+
+ul > li > p {
+  font-size: 12px;
+}
+
+#main-text .progress-four {
+  width: 60px;
+  height: 10px;
+  margin-top: -17px;
+  background-color: #ebebeb;
+}
+
+.Experience {
+  font-size: 12px;
+}
+
+#progress-three {
+  height: 15px;
+  width: 150px;
+}
+
+/* text-design */
+#text-design .progress-five {
+  width: 130px;
+  height: 10px;
+  margin-top: -17px;
+  background-color: #ebebeb;
+}
+
+.Experience {
+  font-size: 12px;
+}
+
+#text-design h2 {
+  font-size: 18px;
+}
+
+#text-design p {
+  font-size: 11px;
+}
+
+#text-design .progress-six {
+  width: 81px;
+  height: 10px;
+  margin-top: -17px;
+  background-color: #ebebeb;
+}
+
+.Experience {
+  font-size: 12px;
+}
+
+/* last text */
+.last-text h2 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.last-text p {
+  font-size: 10px;
+}
+
+.last-text .progress-seven {
+  width: 105px;
+  height: 10px;
+  margin-top: -17px;
+  background-color: #ebebeb;
+}
+
+.Experience {
+  font-size: 12px;
+}
